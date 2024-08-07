@@ -1,4 +1,6 @@
 Fully Responsive website Made with Boostrap
+
+
 **User Interaction Flow**
 Hero Section: Users are greeted and encouraged to shop.
 Shop Now Button: Navigates to the product cards.
